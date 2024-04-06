@@ -7,6 +7,7 @@ qt + cpp+opencv452实现了其功能，还添加了摄像头实时检测，不�
 ## 项目环境
 
 - qt 5.14.2/cpp11 STL
+- win10   mingw 7.3.0 64bit 
 - opencv452
 
 ## 项目细节
